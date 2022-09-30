@@ -1,2 +1,0 @@
-Controlador 2
-Funcionalidad
